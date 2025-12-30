@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# PHP
+*.log
+
+# Database - DO NOT commit real credentials
+# hanapkita/includes/config.php
+# hanapkita/admin/includes/dbconnection.php
+# hanapkita/employers/includes/config.php
+
+# Uploaded Files (if any)
+hanapkita/Jobseekersresumes/*
+!hanapkita/Jobseekersresumes/index.php
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
