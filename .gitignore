@@ -23,6 +23,7 @@ Thumbs.db
 # hanapkita/includes/config.php
 # hanapkita/admin/includes/dbconnection.php
 # hanapkita/employers/includes/config.php
+hanapkita.sql
 
 # Uploaded Files (if any)
 hanapkita/Jobseekersresumes/*
